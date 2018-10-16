@@ -1,2 +1,2 @@
-Some idiomatic Python expressions
+Some idiomatic Python expressions 
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
