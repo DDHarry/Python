@@ -1,7 +1,7 @@
 #
-# Not very Python assignment;-)
 print("\n")
 print("Let us assign & switch")
+# Not very Python assignment;-)
 va =1
 vb = 2; vc = 3;
 print("va is : ",va); print("vc is now : ",vc,"\n")
