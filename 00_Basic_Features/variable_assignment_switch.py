@@ -14,3 +14,4 @@ print("va = ",va,"; vb = ", vb, "; vc = ",vc,".")
 va, vb, vc = vc, vb, va
 print("And now, ve have switched the variables")
 print("va is now : ",va,"; vb is now : ",vb, "; vc is now : ",vc,"\n")
+
