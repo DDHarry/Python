@@ -1,2 +1,2 @@
-# Python
-Some things about Python
+# Rust
+Some things about the Rust programming language.
